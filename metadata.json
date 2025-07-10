@@ -1,0 +1,6 @@
+{
+  "name": "Crypto Trade bot UI",
+  "description": "A sophisticated UI for a simplified trading bot that interacts with the Binance Futures Testnet. It features market, limit, and stop-limit orders, and a real-time order log.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
